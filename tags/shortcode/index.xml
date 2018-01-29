@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shortcode on 点道为止 - 点道社</title>
+    <link>http://www.example.com/tags/shortcode/</link>
+    <description>Recent content in Shortcode on 点道为止 - 点道社</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Oct 2017 20:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="http://www.example.com/tags/shortcode/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>http://www.example.com/docs/shortcodes/</link>
+      <pubDate>Thu, 05 Oct 2017 20:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/docs/shortcodes/</guid>
+      <description>Minimo comes with several shortcodes built-in.
+Shortcode: center Center align you content.
+center: Parameters  Markdown content between opening and closing tags.  center: Usage Example {{% center %}} _Center Aligned Text_ {{% /center %}} Output
+Center Aligned Text
+Shortcode: file Include content from seperate file with syntax highlighting.
+file: Parameters 0 =&amp;gt; filename [String] (required)
+1 =&amp;gt; filetype [String] (optional)
+file: Usage Example {{&amp;lt; file &amp;#34;content/_index.md&amp;#34; &amp;gt;}} Output</description>
+    </item>
+    
+  </channel>
+</rss>

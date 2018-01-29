@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.example.com/</loc>
+    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/docs/</loc>
+    <lastmod>2017-10-05T20:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/chapter/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/comment/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/guide/</loc>
+    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/docs/shortcodes/</loc>
+    <lastmod>2017-10-05T20:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/docs/cover-image/</loc>
+    <lastmod>2017-09-30T14:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/docs/translation/</loc>
+    <lastmod>2017-09-27T14:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/docs/syntax-highlighting/</loc>
+    <lastmod>2017-09-27T12:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/docs/menus/</loc>
+    <lastmod>2017-10-05T16:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/docs/opengraph/</loc>
+    <lastmod>2017-10-11T18:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/docs/authors/</loc>
+    <lastmod>2017-10-11T17:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/docs/example-config-toml/</loc>
+    <lastmod>2017-10-05T15:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/docs/updating/</loc>
+    <lastmod>2017-09-25T06:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/docs/installation/</loc>
+    <lastmod>2017-09-25T02:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/tags/authors/</loc>
+    <lastmod>2017-10-11T17:30:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/chapters/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/tags/chroma/</loc>
+    <lastmod>2017-09-27T12:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/tags/config/</loc>
+    <lastmod>2017-10-05T15:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/categories/features/</loc>
+    <lastmod>2017-10-05T20:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/tags/i18n/</loc>
+    <lastmod>2017-09-27T14:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/tags/menus/</loc>
+    <lastmod>2017-10-05T16:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/authors/muniftanjim/</loc>
+    <lastmod>2017-10-05T20:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/tags/og/</loc>
+    <lastmod>2017-10-11T18:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/categories/others/</loc>
+    <lastmod>2017-10-05T15:30:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/page/</loc>
+    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/tags/pygments/</loc>
+    <lastmod>2017-09-27T12:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/tags/shortcode/</loc>
+    <lastmod>2017-10-05T20:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/tags/</loc>
+    <lastmod>2017-10-11T17:30:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/tags/translation/</loc>
+    <lastmod>2017-09-27T14:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/categories/tutorial/</loc>
+    <lastmod>2017-09-25T06:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
